@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-<!--
-**nanomedia9/nanomedia9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src ="![l(1)](https://github.com/user-attachments/assets/cfa49f6a-4126-47f0-b577-2aabc3ef6a1b)" alt="Header" width="100%">
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
